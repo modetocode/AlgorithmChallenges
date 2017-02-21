@@ -1,4 +1,4 @@
-package challenges.base;
+package challenges.base.challenge;
 
 /**
  * Created by ModeToCode on 14.02.2017.

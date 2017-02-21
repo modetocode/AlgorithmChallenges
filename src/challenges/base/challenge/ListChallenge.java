@@ -1,4 +1,4 @@
-package challenges.base;
+package challenges.base.challenge;
 
 import java.util.List;
 

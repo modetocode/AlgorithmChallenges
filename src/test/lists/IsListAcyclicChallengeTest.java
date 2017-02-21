@@ -1,4 +1,4 @@
-package test;
+package test.lists;
 
 import challenges.lists.IsListAcyclicChallenge;
 import org.junit.Before;

@@ -1,6 +1,6 @@
 package challenges.lists;
 
-import challenges.base.ListChallenge;
+import challenges.base.challenge.ListChallenge;
 
 import java.util.Iterator;
 import java.util.List;
